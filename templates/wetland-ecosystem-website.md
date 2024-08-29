@@ -37,4 +37,3 @@
 
 ## Resources (resources.md)
 - Links to helpful websites, books, and tools for wetland ecosystem study
-
