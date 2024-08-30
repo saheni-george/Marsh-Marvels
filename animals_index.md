@@ -1,11 +1,14 @@
 # Fauna 
 
-- Introduction to wetland animals
-- Categories 
-  - Mammals
-  - Birds
-  - Reptiles
-  - Amphibians
-  - Fish
-  - Insects
-- Navigation
+## Introduction to wetland animals
+
+## Categories 
+
+* Mammals
+* Birds
+* Reptiles
+* Amphibians
+* Fishes
+* Insects
+
+## Navigation

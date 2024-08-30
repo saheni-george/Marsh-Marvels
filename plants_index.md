@@ -6,7 +6,7 @@ Freshwater marshes are highly productive and therefore can support a large biodi
 
 ## Categories
 
-- Emergent
+- [Emergent](plants/emergent.md)
 - Floating
 - Submerged
 - Shoreline

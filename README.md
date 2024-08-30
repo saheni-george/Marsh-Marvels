@@ -12,16 +12,14 @@ This is an attempt to document the ecosystem in the Yamuna Wetlands, one tiny sp
 
 ### Observations
   
-  * [Plants](plants_index.md)
-  * [Animals](animals_index.md)
-  * [Diary](observations.md)
+* [Plants](plants_index.md)
+* [Animals](animals_index.md)
+* [Diary](observations.md)
 
 ### About Me
+
 Interested in knowing how and why this project started. Click here to know more about me.
 
 * [About Me](about.md)
-
-
-
 
 ## Navigation Links
