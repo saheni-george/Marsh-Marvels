@@ -1,4 +1,5 @@
-# [Organism Name] ([Scientific Name])
+# Red Wattled Lapwing
+([Scientific Name])
 
 ## Basic Information
 
