@@ -1,3 +1,4 @@
+
 # Flora
 
 ## Introduction to Wetland plants
@@ -6,9 +7,9 @@ Freshwater marshes are highly productive and therefore can support a large biodi
 
 ## Categories
 
-- Emergent
-- Floating
-- Submerged
-- Shoreline
+- [Emergent](emergent.md)
+- [Floating](floating.md)
+- [Submerged](submerged.md)
+- [Shoreline](shoreline.md)
 
 ## Navigation
